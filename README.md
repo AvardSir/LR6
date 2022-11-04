@@ -21,45 +21,46 @@
 *Добавил его в ветку*
 
  ![image](https://github.com/AvardSir/LR6/blob/master/scr/5.png)
+
 *Закомитил изменения*
-
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/6.png)
-
-*Запушил измененное на github*
 
  ![image](https://github.com/AvardSir/LR6/blob/master/scr/7.png)
 
-*Удалил папку файл и запушил изменения*
+*Запушил измененное на github*
 
  ![image](https://github.com/AvardSir/LR6/blob/master/scr/8.png)
 
-*В итоге github выглядит так*
+*Удалил папку файл и запушил изменения*
 
  ![image](https://github.com/AvardSir/LR6/blob/master/scr/9.png)
 
-*Создал new_branch и перешел на неё*
+*В итоге github выглядит так*
 
  ![image](https://github.com/AvardSir/LR6/blob/master/scr/10.png)
 
-*Добавил файл в новую ветку*
+*Создал new_branch и перешел на неё*
 
  ![image](https://github.com/AvardSir/LR6/blob/master/scr/11.png)
 
-*Закомитил его в этой ветке*
+*Добавил файл в новую ветку*
 
  ![image](https://github.com/AvardSir/LR6/blob/master/scr/12.png)
 
-*Теперь файл убирается при переключении ветки на мастер*
+*Закомитил его в этой ветке*
 
  ![image](https://github.com/AvardSir/LR6/blob/master/scr/13.png)
 
-*Последние изменения веток*
+*Теперь файл убирается при переключении ветки на мастер*
 
  ![image](https://github.com/AvardSir/LR6/blob/master/scr/14.png)
 
-*История ветки*
+*Последние изменения веток*
 
  ![image](https://github.com/AvardSir/LR6/blob/master/scr/15.png)
+
+*История ветки*
+
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/16.png)
 
 *Удалил и снова форкнул репозиторий с убранной галочкой, чтобы скопировать все ветки*
 
