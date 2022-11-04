@@ -2,7 +2,7 @@
 Лабораторная работа №6
 
 Назвался
-(https://github.com/AvardSir/LR6/blob/master/scr/1.png)
+![image](https://github.com/AvardSir/LR6/blob/master/scr/1.png)
 
 Указал Почту
  
