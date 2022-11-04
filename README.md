@@ -64,64 +64,65 @@
 
 *Удалил и снова форкнул репозиторий с убранной галочкой, чтобы скопировать все ветки*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/16.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/17.png)
 
 *Теперь не только 1 ветка*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/17.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/18.png)
 
 *Скопированы ветки из удаленного в локальный репозиторий*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/18.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/19.png)
 
 *Попытка слияния branch1 в master-> ошибка слияния из-за одного файла имеющего разные данные*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/19.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/20.png)
 
 *Устранил конфликт удалив в файле информацию из branch1 и закомитил,тем самым выйдя из системы контроля слияния*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/20.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/21.png)
 
 *Удалил ветку*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/21.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/22.png)
 
 *Создание двух файлов-они закомичены и запушены*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/22.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/23.png)
 
 *Изменен 2й файл*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/23.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/24.png)
 
 *Изменения закомичены и запушены*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/24.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/25.png)
 
 *Изменения отображаются в гитхабе*
 
-![image](https://github.com/AvardSir/LR6/blob/master/scr/25.png)
+![image](https://github.com/AvardSir/LR6/blob/master/scr/26.png)
 
 *Получен индификатор предыдущего коммита*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/26.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/27.png)
 
 *Откат произошел*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/27.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/28.png)
 
 *Файл снова пуст*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/28.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/29.png)
 
 *Возвращение в настоящий коммит*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/29.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/30.png)
 
 *Информация вернулась*
 
- ![image](https://github.com/AvardSir/LR6/blob/master/scr/30.png)
+ ![image](https://github.com/AvardSir/LR6/blob/master/scr/31.png)
 
 *Создана ветка для отчета*
 
-![image](https://github.com/AvardSir/LR6/blob/master/scr/31.png)
+![image](https://github.com/AvardSir/LR6/blob/master/scr/32.png)
+
